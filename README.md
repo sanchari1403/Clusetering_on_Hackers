@@ -8,4 +8,4 @@ The company has reseached on the hack and let us know that there are three types
 
 Our aim is to find out the potential groups of hackers and conclude if all these hackers are causing the threat. 
 
-We have used Pyspark, which is a Python API introduced by Apache Spark to perform the clustering using K-Means algorithm on our dataset.
+We have used Pyspark, which is a Python API introduced by Apache Spark to perform the clustering using K-Means algorithm on our dataset. Also, here we have used the Databricks notebook to perform the necessary operations because of which the file has been read from the Databricks File System (DBFS).

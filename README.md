@@ -7,3 +7,5 @@ The forensic department has also provided us with the meta-data of each session 
 The company has reseached on the hack and let us know that there are three types of hackers causing the threat. One trend that they have noticed from the market is that these hackers trade-off hacks which means that they should have roughly caused equal number of threats. 
 
 Our aim is to find out the potential groups of hackers and conclude if all these hackers are causing the threat. 
+
+We have used Pyspark, which is a Python API introduced by Apache Spark to perform the clustering using K-Means algorithm on our dataset.
